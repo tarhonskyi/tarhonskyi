@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarhonskyi
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning Python
+- 🌱 Currently learning Python
 
 
 <!---
