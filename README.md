@@ -1,4 +1,4 @@
-![image](https://www.codewars.com/users/tarhonskyi/badges/micro)
+  ![image](https://www.codewars.com/users/tarhonskyi/badges/large)
 - 👋 Hi, I’m @tarhonskyi
 - 👀 I’m interested in programing 
 - 🌱 Currently learning Python
