@@ -1,5 +1,5 @@
 ![image](https://www.codewars.com/users/tarhonskyi/badges/small)
-- 👋 Hi, I’m @tarhonskyi
+- 👋 Hi, I’m Vladyslav
 - 👀 I’m interested in programing 
 - 🌱 Currently learning Python
 
